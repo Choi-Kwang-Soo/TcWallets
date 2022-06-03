@@ -1,0 +1,36 @@
+{
+  "files": {
+    "app.js": "/TcWallets/static/js/app.7abbe745.chunk.js",
+    "app.js.map": "/TcWallets/static/js/app.7abbe745.chunk.js.map",
+    "runtime~app.js": "/TcWallets/static/js/runtime~app.292a58cf.js",
+    "runtime~app.js.map": "/TcWallets/static/js/runtime~app.292a58cf.js.map",
+    "static/js/2.82dad14b.chunk.js": "/TcWallets/static/js/2.82dad14b.chunk.js",
+    "static/js/2.82dad14b.chunk.js.map": "/TcWallets/static/js/2.82dad14b.chunk.js.map",
+    "fonts/AntDesign.ttf": "/TcWallets/./fonts/AntDesign.ttf",
+    "fonts/Entypo.ttf": "/TcWallets/./fonts/Entypo.ttf",
+    "fonts/Feather.ttf": "/TcWallets/./fonts/Feather.ttf",
+    "fonts/FontAwesome.ttf": "/TcWallets/./fonts/FontAwesome.ttf",
+    "fonts/FontAwesome5_Brands.ttf": "/TcWallets/./fonts/FontAwesome5_Brands.ttf",
+    "fonts/FontAwesome5_Solid.ttf": "/TcWallets/./fonts/FontAwesome5_Solid.ttf",
+    "fonts/Fontisto.ttf": "/TcWallets/./fonts/Fontisto.ttf",
+    "fonts/Foundation.ttf": "/TcWallets/./fonts/Foundation.ttf",
+    "fonts/Ionicons.ttf": "/TcWallets/./fonts/Ionicons.ttf",
+    "fonts/MaterialCommunityIcons.ttf": "/TcWallets/./fonts/MaterialCommunityIcons.ttf",
+    "fonts/MaterialIcons.ttf": "/TcWallets/./fonts/MaterialIcons.ttf",
+    "fonts/SimpleLineIcons.ttf": "/TcWallets/./fonts/SimpleLineIcons.ttf",
+    "favicon-16.png": "/TcWallets/favicon-16.png",
+    "favicon-32.png": "/TcWallets/favicon-32.png",
+    "favicon.ico": "/TcWallets/favicon.ico",
+    "index.html": "/TcWallets/index.html",
+    "manifest.json": "/TcWallets/manifest.json",
+    "serve.json": "/TcWallets/serve.json",
+    "static/js/2.82dad14b.chunk.js.LICENSE.txt": "/TcWallets/static/js/2.82dad14b.chunk.js.LICENSE.txt",
+    "static/media/logo.png": "/TcWallets/static/media/logo.dd9841fd.png",
+    "static/media/logo_h.png": "/TcWallets/static/media/logo_h.b94085fd.png"
+  },
+  "entrypoints": [
+    "static/js/runtime~app.292a58cf.js",
+    "static/js/2.82dad14b.chunk.js",
+    "static/js/app.7abbe745.chunk.js"
+  ]
+}
